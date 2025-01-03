@@ -3,7 +3,7 @@
 **Demo:** [Here](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php)
 
 ## Preview
-![Preview](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php)  
+![Preview](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/preview.jpg)  
 
 ## Installation
 To run this project, simply clone this repo and host the php files.
