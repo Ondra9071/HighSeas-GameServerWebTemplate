@@ -1,6 +1,7 @@
 # High Seas: Game Server Web Template
 
-**Demo:** [Here](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php)
+**Demo:** Currently offline
+<!-- [Here](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php) -->
 
 ## Preview
 ![Preview](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/preview.jpg)  
