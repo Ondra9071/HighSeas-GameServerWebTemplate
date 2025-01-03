@@ -1,10 +1,9 @@
 # High Seas: Game Server Web Template
 
-**Demo:** Currenctly offline
-<!-- [Here](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php) -->
+**Demo:** [Here](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php)
 
 ## Preview
-![Landing Page Preview](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/preview.jpg)  
+![Preview](https://ondrejpacovsky.cz/demo/highseas/GameServerWebTemplate/index.php)  
 
 ## Installation
 To run this project, simply clone this repo and host the php files.
